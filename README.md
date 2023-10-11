@@ -1,6 +1,9 @@
 # Hockey Analytics
 In this repo, you will find my Jupyter Notebook files where I calculate and analyzed the data for both my blog as well as for the articles for the Bruins Stats Corner with<a href="https://blackngoldhockey.com/"> Black n Gold Hockey</a>.
 
+## Goal Mapping
+I built this <a href="https://goalmapping.streamlit.app/"> Streamlit app</a> to map and track goals throughout the NHL regular season. It's built on a python code developed in Jupyter Notebook that scrapes the NHL API daily. 
+
 ## Power Forwards
 This <a href="https://checkthisdata.substack.com/p/is-the-power-forward-a-thing-of-the"> blog post</a> idea was generated while I was writing and researching for <a href="https://blackngoldhockey.com/2023/08/bruins-stats-corner-jvr-the-contributor/"> this article. </a> The questions that prompted my exploration:
 <ul>
