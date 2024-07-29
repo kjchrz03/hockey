@@ -34,4 +34,10 @@ My initial report card began as an evaluation of three Bruins Free Agents ahead 
   <li> This lead me to realize that this report card system, just like handing out report cards in a classroom, should be used to evaluate a player as an individual first and as a player in the league second. For example, how a student performs in general and then how that student ranks in her graduating class. </li>
 </ul>
 
+## Player Usage
+This is a favorite new metric for me. I first learned about it from an article by Dom Lusczyszczyn at The Athletic. I made a first pass at understanding it myself by attempting to replicate it back in 2023. In 2024, after letting it simmer on the back burner for a little while, I returned to my script with a fresh eye. I ended up changing quite a bit of how I was weighting the player usage values for players who were traded during the season. I then built off of that to determine if I could use player usage to predict anything and stumbled on an interesting discovery around how it relates to expected goals. I used this discovery to ask if the Bruins should <a href="https://checkthisdata.substack.com/p/is-there-a-case-to-be-made-for-jake"> consider keeping Jake DeBrusk</a> before Free Agency.
+<ul>
+ <li> 2023 Player Usage Script</li>
+ <li> 2024 Player Usage Scrip</li>
+</ul>
 
