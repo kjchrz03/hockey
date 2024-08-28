@@ -41,3 +41,7 @@ This is a favorite new metric for me. I first learned about it from an article b
  <li> [2024 Script](https://github.com/kjchrz03/hockey/blob/main/Player%20Usage%202024.ipynb) </li>
 </ul>
 
+## NHL API Webscraping
+
+This is an example of [python scripting]([url](https://github.com/kjchrz03/hockey/blob/main/NHLAPI%206.ipynb)) to scrape the new NHL API
+
