@@ -43,5 +43,5 @@ This is a favorite new metric for me. I first learned about it from an article b
 
 ## NHL API Webscraping
 
-This is an example of [python scripting]([url](https://github.com/kjchrz03/hockey/blob/main/NHLAPI%206.ipynb)) to scrape the new NHL API
+This is an example of [python scripting](https://github.com/kjchrz03/hockey/blob/main/NHLAPI%206.ipynb) to scrape the new NHL API
 
