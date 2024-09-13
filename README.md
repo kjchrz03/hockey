@@ -37,7 +37,11 @@ My initial report card began as an evaluation of three Bruins Free Agents ahead 
 ## Player Usage
 This is a favorite new metric for me. I first learned about it from an article by Dom Lusczyszczyn at The Athletic. I made a first pass at understanding it myself by attempting to replicate it back in 2023. In 2024, after letting it simmer on the back burner for a little while, I returned to my script with a fresh eye. I ended up changing quite a bit of how I was weighting the player usage values for players who were traded during the season. I then built off of that to determine if I could use player usage to predict anything and stumbled on an interesting discovery around how it relates to expected goals. I used this discovery to ask if the Bruins should <a href="https://checkthisdata.substack.com/p/is-there-a-case-to-be-made-for-jake"> consider keeping Jake DeBrusk</a> before Free Agency.
 <ul>
- <li> 2023 Player Usage Script</li>
- <li> 2024 Player Usage Scrip</li>
+ <li> [2023 Script](https://github.com/kjchrz03/hockey/blob/main/Player%20Usage%202023.ipynb) </li>
+ <li> [2024 Script](https://github.com/kjchrz03/hockey/blob/main/Player%20Usage%202024.ipynb) </li>
 </ul>
+
+## NHL API Webscraping
+
+This is an example of [python scripting](https://github.com/kjchrz03/hockey/blob/main/NHLAPI%206.ipynb) to scrape the new NHL API
 
