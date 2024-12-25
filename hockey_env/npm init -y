@@ -1,0 +1,4 @@
+mkdir simplecast-pubsub
+cd simplecast-pubsub
+
+npm init -y
