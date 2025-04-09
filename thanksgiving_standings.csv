@@ -1,4 +1,4 @@
-conferenceName,conferenceSequence,divisionName,divisionSequence,gamesPlayed,goalDifferential,goalDifferentialPctg,goalAgainst,goalFor,goalsForPctg,pointPctg,points,streakCode,streakCount,winPctg,teamName.default,teamAbbrev.default,date,season_id
+conferenceName,conferenceSequence,divisionName,divisionSequence,gamesPlayed,goalDifferential,goalDifferentialPctg,goalAgainst,goalFor,goalsForPctg,pointPctg,points,streakCode,streakCount,winPctg,teamName.default,tri_code,date,season_id
 Eastern,1,Northeast,1,22,20,0.909091,43,63,2.863636,0.636364,28,W,3,0.545455,Toronto Maple Leafs,TOR,11/23/2000,20002001
 Eastern,2,Atlantic,1,21,-2,-0.095238,58,56,2.666667,0.571429,24,W,6,0.47619,Philadelphia Flyers,PHI,11/23/2000,20002001
 Eastern,3,Southeast,1,20,-11,-0.55,58,47,2.35,0.45,18,W,1,0.35,Carolina Hurricanes,CAR,11/23/2000,20002001
